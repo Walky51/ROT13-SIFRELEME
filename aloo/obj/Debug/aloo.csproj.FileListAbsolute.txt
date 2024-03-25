@@ -1,0 +1,10 @@
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\bin\Debug\aloo.exe.config
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\bin\Debug\aloo.exe
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\bin\Debug\aloo.pdb
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\obj\Debug\aloo.csproj.AssemblyReference.cache
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\obj\Debug\aloo.Form1.resources
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\obj\Debug\aloo.Properties.Resources.resources
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\obj\Debug\aloo.csproj.GenerateResource.cache
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\obj\Debug\aloo.csproj.CoreCompileInputs.cache
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\obj\Debug\aloo.exe
+C:\Users\volka\OneDrive\Masaüstü\c# proje\personel\aloo\obj\Debug\aloo.pdb
